@@ -1,4 +1,4 @@
-# histo_building implementation details
+# anomaly_detection implementation details
 
 The ```anomaly_detection``` package includes two Python modules
 - ```detector.py```: implements several functions used at detecting anomalies based on equi-width histogram of both clear and encrypted data;
