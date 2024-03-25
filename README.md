@@ -22,6 +22,7 @@ Other packages that ```HEADpy``` depends on are ```pandas```, ```matplotlib``` a
 
 ### Installing ```pandas```
 ```pandas``` can be easily installed using the following command:
+
 ```$ pip install pandas```
 
 ### Installing ```matplotlib```
@@ -30,10 +31,13 @@ The same command can be used to install ```matplotlib```:
 
 ### Installing Concrete
 Concrete can be also installed from PyPI:
+
 ```pip install -U pip wheel setuptools```
+
 ```pip install concrete-python```
 
 After all needed packages are installed, the public repository containing the framework code is cloned in a local directory of user's choice:
+
 ```git clone https://github.com/dragoslazea/HEADpy.git```
 
 After installation, all the functionalities provided by the framework are available within the working directory where the user cloned the code of the software.
